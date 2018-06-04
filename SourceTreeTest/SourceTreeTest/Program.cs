@@ -11,6 +11,7 @@ namespace SourceTreeTest
         static void Main(string[] args)
         {
             Console.WriteLine("This has been amended");
+            Console.WriteLine("Yet another amendment");
             Console.ReadKey();
         }
     }
