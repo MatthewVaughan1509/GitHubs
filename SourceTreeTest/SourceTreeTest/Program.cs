@@ -10,6 +10,7 @@ namespace SourceTreeTest
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
