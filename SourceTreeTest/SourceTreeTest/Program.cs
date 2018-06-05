@@ -13,6 +13,8 @@ namespace SourceTreeTest
             Console.WriteLine("This has been amended");
             Console.WriteLine("Yet another amendment");
             Console.ReadKey();
+
+//Amended on the another branch
         }
     }
 }
